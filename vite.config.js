@@ -4,5 +4,5 @@ import { defineConfig } from 'vite';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/optoken.in/', // 👈 Use your repo name here
+  base: '/swabee-optoken.in/', // 👈 Use your repo name here
 });
